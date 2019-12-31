@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="103px" height="53px" viewBox="0 0 103 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-11-Pro" transform="translate(-25.000000, -30.000000)">
+            <g id="Group-3" transform="translate(25.000000, 30.000000)">
+                <path d="M6.409713,0.5 C4.45315379,0.5 3.63735729,0.657537572 2.79368517,1.10873836 C2.06600459,1.49790619 1.49790619,2.06600459 1.10873836,2.79368517 C0.657537572,3.63735729 0.5,4.45315379 0.5,6.409713 L0.5,46.590287 C0.5,48.5468462 0.657537572,49.3626427 1.10873836,50.2063148 C1.49790619,50.9339954 2.06600459,51.5020938 2.79368517,51.8912616 C3.63735729,52.3424624 4.45315379,52.5 6.409713,52.5 L96.590287,52.5 C98.5468462,52.5 99.3626427,52.3424624 100.206315,51.8912616 C100.933995,51.5020938 101.502094,50.9339954 101.891262,50.2063148 C102.342462,49.3626427 102.5,48.5468462 102.5,46.590287 L102.5,6.409713 C102.5,4.45315379 102.342462,3.63735729 101.891262,2.79368517 C101.502094,2.06600459 100.933995,1.49790619 100.206315,1.10873836 C99.3626427,0.657537572 98.5468462,0.5 96.590287,0.5 L6.409713,0.5 Z" id="Rectangle" stroke="#000000" fill="#FFD274"></path>
+                <g id="Group-2" transform="translate(5.000000, 0.000000)" fill="#000000" font-size="24" letter-spacing="0.2">
+                    <text id="Joel" font-family="SFProDisplay-Bold, SF Pro Display" font-weight="bold">
+                        <tspan x="0" y="23">Joel</tspan>
+                    </text>
+                    <text id="Clark" font-family="SFProDisplay-Black, SF Pro Display" font-weight="700">
+                        <tspan x="0" y="46">Clark</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
