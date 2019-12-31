@@ -2,8 +2,8 @@
 name: "Joel Clark"
 title: "Digital Portfolio"
 description: "iOS developer"
-logo: 'assets/images/icon.png'
-favicon: 'assets/images/icon.png'
+logo: 'assets/icon.png'
+favicon: 'assets/icon.png'
 include: ["_pages"]
 permalink: /:title/
 
