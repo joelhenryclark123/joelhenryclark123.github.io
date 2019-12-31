@@ -16,7 +16,7 @@
 title: Joel Clark
 email: joelhenryclark@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Self-taught iOS developer with a passion for creative product development
+  Self-taught iOS developer with a passion for creative products
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
