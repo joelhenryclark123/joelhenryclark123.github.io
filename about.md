@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+comments: false
 ---
 
 In 2009, I started programming with [WarioWare D.I.Y.](https://en.wikipedia.org/wiki/WarioWare_D.I.Y.) and [LEGO Mindstorms](https://en.wikipedia.org/wiki/Lego_Mindstorms). Hoping to level-up my skills, I tried to learn how to make iOS apps. I installed XCode on my hand-me-down computer, tried reading the objective-C docs, and gave up at the frustration of declaring variable types.
