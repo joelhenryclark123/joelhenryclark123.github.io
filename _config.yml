@@ -24,7 +24,7 @@ github_username:  joelhenryclark123
 
 # Build settings
 markdown: kramdown
-remote_theme: wowthemesnet/mediumish-theme-jekyll
+remote_theme: "wowthemesnet/mediumish-theme-jekyll"
 plugins:
   - jekyll-feed
 
