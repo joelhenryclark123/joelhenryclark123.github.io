@@ -24,7 +24,7 @@ github_username:  joelhenryclark123
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: wowthemesnet/mediumish-theme-jekyll
 plugins:
   - jekyll-feed
 
