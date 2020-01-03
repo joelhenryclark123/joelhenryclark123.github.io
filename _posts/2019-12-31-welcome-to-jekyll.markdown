@@ -35,7 +35,7 @@ I chose GitHub because I prefer the domain name and know it's capable of serving
 
 ### What theme do I choose?
 
-One Google search for "free jekyll themes" led me right [here](https://jekyllthemes.io/free) There were a few I liked, but I decided on WowThemes' [Mediumish theme](https://jekyllthemes.io/theme/mediumish) pretty quickly, as I've always been a fan of their minimal, whitespace- and typography-conscious style.
+One Google search for "free jekyll themes" led me right [here](https://jekyllthemes.io/free). There were a few I liked, but I decided on WowThemes' [Mediumish theme](https://jekyllthemes.io/theme/mediumish) pretty quickly, as I've always been a fan of their minimal, whitespace- and typography-conscious style.
 
 Now, it's time for the next step.
 
