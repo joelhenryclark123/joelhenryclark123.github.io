@@ -46,14 +46,15 @@ In this file, I've got three views
 It has four properties:
 
 1. @State var adding: Bool
-this is true if the user is currently adding a new To Do.
+(true if the user is currently adding a new To Do.)
 
 2. @EnvironmentObject var store: ToDoStore
 
 3. var emptyState: some View
 
 4. var body: some View
-Returns a ZStack. Always on top is an add TargetButton, aligned top & leading.
+
+The body returns a ZStack. Always on top is an add TargetButton, aligned top & leading.
 
 * If there's no ToDo in the store, it returns empty state
 * Otherwise, it returns the title of the ToDo in a centered Text View, and a checkmark TargetButton in the bottom trailing corner
