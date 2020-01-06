@@ -23,3 +23,56 @@ It's pretty barebones. However, it doesn't crash, it adheres to the human interf
 I've actually used this app to manage todos, and it's pretty nice to be able to open the app to a single task. Seeing a whole list is distracting and overwhelming.
 
 Going forward, I'll add features and keep it updated... it's still at the first stage.
+
+## ToDo.swift
+
+This file contains two models:
+
+### struct ToDo
+Contains:
+* an id to conform to Identifiable
+* a title string
+* a boolean called complete
+
+### class ToDoStore: ObservableObject
+This has one published property, a ToDo array, and has methods for saving the array to User Defaults, checking off a ToDo, and adding a new ToDo.
+
+## ContentView.swift
+
+In this file, I've got three views
+
+### ContentView
+
+It has four properties:
+
+1. @State var adding: Bool
+this is true if the user is currently adding a new To Do.
+
+2. @EnvironmentObject var store: ToDoStore
+
+3. var emptyState: some View
+
+4. var body: some View
+Returns a ZStack. Always on top is an add TargetButton, aligned top & leading.
+
+* If there's no ToDo in the store, it returns empty state
+* Otherwise, it returns the title of the ToDo in a centered Text View, and a checkmark TargetButton in the bottom trailing corner
+
+### Target Button
+![TargetButton with checkmark](../assets/posts/stack/target-check.png)
+![TargetButton with plus sign](../assets/posts/stack/target-plus.png)
+
+I'm most proud of this part. Its a customizable, reusable view that's not too complex, but makes me feel competent in composing views. Here's the code:
+
+![TargetButton code](../assets/posts/stack/target-code.png)
+
+I'm proud of this because it uses things that I once only studied, like closures and calculated properties, and puts them together to be useful. Because it's a struct, I can customize any of its properties if I'd like to. Plus, I get to use trailing closure syntax to declare its action.
+
+### CreatorModal
+This is a pretty simple modal with only one view: a textfield with the onCommit property defined to create a new ToDo with the text, then add it to the store.
+
+# Going forward...
+
+I like using this to do list because you can't really argue with what's on top. It makes you focus. However, it'd be nice to be able to manage the store. attach things (images, files) to a ToDo, or send ToDos to other people's stack. I'll keep adding to this to get experience building on existing software.
+
+

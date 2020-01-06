@@ -34,7 +34,7 @@ First, I had to make sure that GitHub pages had custom theme support. After all,
 I chose GitHub because I prefer the domain name and know it's capable of serving my needs.
 
 ### What theme do I choose?
-One Google search for "free jekyll themes" led me right [here](https://jekyllthemes.io/free). There were a few I liked, but I decided on WowThemes' [Mediumish theme](https://jekyllthemes.io/theme/mediumish) pretty quickly, as I've always been a fan of their minimal, whitespace- and typography-conscious style.
+One Google search for "free jekyll themes" led me right [here](https://jekyllthemes.io/free). There were a few I liked, but I decided on WowThemes' [Mediumish theme](https://jekyllthemes.io/theme/mediumish) pretty quickly, as I've always been a fan of Medium's minimal, whitespace- and typography-conscious style.
 
 Now, it's time for the next step.
 
@@ -74,6 +74,6 @@ To customize a Jekyll theme, GitHub pages only requires that you include a file 
 Becuase of my work with Statamic, Laravel and Wordpress, I was familiar with how a CMS composes its views. So, I copied the _layouts folder from the remote repo into mine, as well as index.html. A few quick changes later, I now have a free, custom portfolio.
 
 # Conclusion
-I want to work as an iOS developer. Although, on this project, I only opened XCode once: to edit the markdown file you're reading right now. From here on out, all posts will be iOS or Swift related.
+Setting this site up was tough, and editing things takes more effort than I'd like. However, I have access to all the files if I ever want to move the site, and the posts are written in Markdown. So, they'll probably be supported if I want to move this to a new site.
 
-This writeup mostly serves as an initial commit to my portfolio, but it feels good to have built it on my own.
+For now, this site will work! Plus, it's free
