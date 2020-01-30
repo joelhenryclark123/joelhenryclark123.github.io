@@ -5,7 +5,7 @@ description: "iOS developer"
 logo: 'assets/Icon.png'
 favicon: 'assets/Icon.png'
 include: ["_pages"]
-permalink: /:title/
+permalink: /blog/:title/
 
 # Authors
 authors:
