@@ -14,7 +14,7 @@ Stack is a FIFO to do list inspired by the [Paradox of Choice](https://en.wikipe
 [Link to repository](https://github.com/joelhenryclark123/stack)
 
 # Current Version
-![Demo Screen](../assets/posts/stack/stack-demo.gif)
+![Demo Screen](../../assets/posts/stack/stack-demo.gif)
 
 It's pretty barebones. However, it doesn't crash, it adheres to the human interface guidelines, and its useful. Problems solved with this app include, so far:
 1. Establishing focus
