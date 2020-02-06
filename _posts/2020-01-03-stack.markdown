@@ -14,7 +14,7 @@ Stack is a FIFO to do list inspired by the [Paradox of Choice](https://en.wikipe
 [Link to repository](https://github.com/joelhenryclark123/stack)
 
 # Current Version
-![Demo Screen](https://github.com/joelhenryclark123/joelhenryclark123.github.io/assets/posts/stack/stack-demo.gif)
+![Demo Screen](/assets/posts/stack/stack-demo.gif)
 
 It's pretty barebones. However, it doesn't crash, it adheres to the human interface guidelines, and its useful. Problems solved with this app include, so far:
 1. Establishing focus
@@ -60,12 +60,12 @@ The body returns a ZStack. Always on top is an add TargetButton, aligned top & l
 * Otherwise, it returns the title of the ToDo in a centered Text View, and a checkmark TargetButton in the bottom trailing corner
 
 ### Target Button
-![TargetButton with checkmark](../assets/posts/stack/target-check.png)
-![TargetButton with plus sign](../assets/posts/stack/target-plus.png)
+![TargetButton with checkmark](/assets/posts/stack/target-check.png)
+![TargetButton with plus sign](/assets/posts/stack/target-plus.png)
 
 I'm most proud of this part. Its a customizable, reusable view that's not too complex, but makes me feel competent in composing views. Here's the code:
 
-![TargetButton code](../assets/posts/stack/target-code.png)
+![TargetButton code](/assets/posts/stack/target-code.png)
 
 I'm proud of this because it uses things that I once only studied, like closures and calculated properties, and puts them together to be useful. Because it's a struct, I can customize any of its properties if I'd like to. Plus, I get to use trailing closure syntax to declare its action.
 
