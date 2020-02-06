@@ -62,7 +62,7 @@ remote-theme: 'wowthemesnet/mediumish-theme-jekyll'
 This got default Mediumish up and running just fine, and when I checked out the [repo](https://github.com/wowthemesnet/mediumish-theme-jekyll), I saw that it functioned a lot like [Statamic](https://statamic.com). This meant it was time for the next phase:
 
 # Customization
-![Mediumish Default](../assets/posts/mediumish-default.jpg)
+![Mediumish Default](/assets/posts/mediumish-default.jpg)
 
 That's the default Mediumish layout. As of right now, I've only made three changes:
 * Included my custom icon in the header and favicon
