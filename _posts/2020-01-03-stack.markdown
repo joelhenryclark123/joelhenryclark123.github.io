@@ -60,7 +60,7 @@ The body returns a ZStack. Always on top is an add TargetButton, aligned top & l
 * Otherwise, it returns the title of the ToDo in a centered Text View, and a checkmark TargetButton in the bottom trailing corner
 
 ### Target Button
-![TargetButton with checkmark](/assets/posts/stack/target-check1.png)
+![TargetButton with checkmark](/assets/posts/stack/target-check.png)
 ![TargetButton with plus sign](/assets/posts/stack/target-plus.png)
 
 I'm most proud of this part. Its a customizable, reusable view that's not too complex, but makes me feel competent in composing views. Here's the code:
